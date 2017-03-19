@@ -19,8 +19,8 @@ public class CloudantClientMgr {
 
 	private static String databaseName = "sample_nosql_db";
 
-	private static String user = "REPLACE_WITH_CLOUDANT_USERNAME";
-	private static String password = "REPLACE_WITH_CLOUDANT_PASSWORD";
+	private static String user = "68942ce5-9823-4a2b-bee0-5bdf417379d2-bluemix";
+	private static String password = "94172049714b3a9d22c7aeb273fb5dcfd359316a4327bb5ff944da51d50b9560";
 
 	private static void initClient() {
 		if (cloudant == null) {
