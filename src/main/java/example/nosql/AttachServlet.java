@@ -12,6 +12,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.Part;
 
+import com.crest.backend.dao.nosql.CloudantClientMgr;
 import org.apache.commons.codec.binary.Base64;
 
 import com.cloudant.client.api.Database;
